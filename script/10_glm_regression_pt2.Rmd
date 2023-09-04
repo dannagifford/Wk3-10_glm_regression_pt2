@@ -1,6 +1,8 @@
 ---
 title: "The General Linear Model - Regression Part 2"
-author: "Andrew Stewart, Email: drandrewjstewart@gmail.com, Twitter: @ajstewart_lang"
+author:
+    - Dr Danna Gifford, Unit coordinator (2023), danna.gifford@manchester.ac.uk
+    - Prof Andrew Stewart, Original author (2020-2022), drandrewjstewart@gmail.com
 date: ""
 output: 
  html_document:
@@ -11,7 +13,7 @@ output:
 
 # Overview
 
-First off I'd like you to watch the following video which builds on the first regression workshop. We explore how to build regression models with more than one predictor in R using the `lm()` function, test our model assumptions, and interpret the output. We look at different ways of building stepwise regression models with multiple predictors, before finishing by looking at mediation and moderation. 
+First off please watch the following video which builds on the first regression workshop. We explore how to build regression models with more than one predictor in R using the `lm()` function, test our model assumptions, and interpret the output. We look at different ways of building stepwise regression models with multiple predictors, before finishing by looking at mediation and moderation. 
 
 &nbsp;&nbsp;
 
